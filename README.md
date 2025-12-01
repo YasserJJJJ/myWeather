@@ -44,6 +44,8 @@ Smooth animations, clean UI, and instant performance.
 
 ## 📸 Screenshots
 
-![Home](./assets/Capture%20d’écran%20le%202025-11-30%20à%2019.57.14.png)
-![Forecast](./assets/Capture%20d’écran%20le%202025-11-30%20à%2019.58.02.png)
+![Home](./assets/HomeCelsius.png)
+![Home2](./assets/Home.Frnt.png)
+![HourlyDetails](./assets/HourlyDetails.png)
+
 
