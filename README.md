@@ -45,7 +45,7 @@ Smooth animations, clean UI, and instant performance.
 ## 📸 Screenshots
 
 ![Home](./assets/HomeCelsius.png)
-![Home2](./assets/Home.Frnt.png)
+![Home2](./assets/HomeFrnt.png)
 ![HourlyDetails](./assets/HourlyDetails.png)
 
 
