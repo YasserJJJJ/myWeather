@@ -1,16 +1,48 @@
-# React + Vite
+# 🌦️ myWeather — Modern Weather App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast, modern weather application built with **React**, **Vite**, and **pure CSS**.  
+Search any city worldwide and get **real-time weather**, **hourly forecasts**, and a **7-day outlook** including UV index, sunrise/sunset, humidity, wind, and air quality — all powered by the **Open-Meteo API (no API key required)**.
 
-Currently, two official plugins are available:
+Smooth animations, clean UI, and instant performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo  
+🔗 **https://your-app-link.vercel.app**  
+*(Deploy on Vercel and replace this link)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **City Search** — look up any location worldwide  
+- 🌡️ **Current Weather** — temperature, humidity, wind, AQI, UV  
+- ⏳ **Hourly Forecast** — temperature and conditions through the day  
+- 📅 **7-Day Forecast** — daily highs/lows, sun cycle, and summaries  
+- 🌅 **Sunrise & Sunset Times**  
+- 💨 **Air Quality Index (AQI)**  
+- 🎨 **Smooth UI Animations**  
+- ⚡ **Powered by Open-Meteo API (zero API keys)**  
+- 📱 **Fully Responsive** — works on desktop & mobile  
+- 🔥 **Lightning-fast** thanks to Vite + optimized fetch calls  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- React  
+- Vite  
+- JavaScript  
+- CSS (custom styles, no frameworks)
+
+**APIs:**  
+- Open-Meteo Weather API  
+- Geocoding API from Open-Meteo  
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots inside `/assets` or `/public` and update these paths.
+
