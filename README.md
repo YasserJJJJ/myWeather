@@ -44,5 +44,6 @@ Smooth animations, clean UI, and instant performance.
 
 ## 📸 Screenshots
 
-> Add screenshots inside `/assets` or `/public` and update these paths.
+![Home](./assets/Capture%20d’écran%20le%202025-11-30%20à%2019.57.14.png)
+![Forecast](./assets/Capture%20d’écran%20le%202025-11-30%20à%2019.58.02.png)
 
