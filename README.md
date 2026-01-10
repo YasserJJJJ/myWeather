@@ -8,7 +8,7 @@ Smooth animations, clean UI, and instant performance.
 ---
 
 ## 🚀 Live Demo  
-🔗 **https://my-weather-v2.vercel.appp**  
+🔗 **https://my-weather-v2-git-main-yassers-projects-dafbc577.vercel.app**  
 *(project's link)*
 
 ---
